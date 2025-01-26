@@ -1,0 +1,4 @@
+repository "cat-bubbles-game@OkaminuTeam@cloud"
+  path "/"
+    br "/main"
+    co "/main"
