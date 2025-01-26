@@ -1,4 +1,6 @@
-Very adorbubble kitty pops bubbles
+# Game developed for GameJam 2025
+
+Description: Very adorbubble kitty pops bubbles
 
 Developed on Unity 6 with C#
 
